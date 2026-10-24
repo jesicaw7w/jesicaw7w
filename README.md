@@ -12,7 +12,7 @@
 <h3 align="center">Desarrolladora de software junior · Aprendiz SENA ADSO</h3>
 
 <p align="center">
-  <img alt="Banner de jesica7w: desarrolladora de software" src="assets/banner-jesica.jpg" width="100%">
+  <img alt="Banner de jesica7w: desarrolladora de software" src="assets/banner jesica.jpg" width="100%">
 </p>
 
 <!-- ✏️ EDITA: cambia TU-USUARIO en cada badge. Los de Discord/NPM/LinkedIn son opcionales: borra los que no uses. -->
